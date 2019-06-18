@@ -1,0 +1,3 @@
+"""
+CoffeMachine project
+"""
