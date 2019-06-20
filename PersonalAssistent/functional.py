@@ -16,7 +16,7 @@ def guessage():
 def Greatings():
     assistantname = "Veston"
     birthYear = 1995
-        
+
     print("Hello! My name is " + assistantname)
     print("I was born in " + str(birthYear))
     print("Please, remind me your name.")
@@ -25,7 +25,7 @@ def Greatings():
     print("Let's me guess your age.")
     myage = guessage()
     print("Your age is " + str(myage) +"; that's a good time to start programming!")
-    
+
 def counting():
     print("Now I will prove to you that I can count to any number you want.")
     count = input()
@@ -44,7 +44,7 @@ def checkAnswer():
     else:
         print("Please, try again.")
         checkAnswer()
-        
+
 def testing():
     print("Let's test your programming knowledge.")
     print("Why do we use methods?")
