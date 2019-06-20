@@ -10,3 +10,4 @@ import functional as fnct
 fnct.Greatings()
 fnct.counting()
 fnct.testing()
+print(2)

@@ -46,7 +46,7 @@ def checkAnswer():
 def testing():
     print("Let's test your programming knowledge.")
     print("Why do we use methods?")
-    print("1. To repeat a statement multiple times." + "/n" + "2. To decompose a program into several small subroutines.")
-    print("3. To determine the execution time of a program." + "/n" + "4. To interrupt the execution of a program.")
+    print("1. To repeat a statement multiple times." + "\n" + "2. To decompose a program into several small subroutines.")
+    print("3. To determine the execution time of a program." + "\n" + "4. To interrupt the execution of a program.")
     print("Your answer: ")
-checkAnswer()
+    checkAnswer()
