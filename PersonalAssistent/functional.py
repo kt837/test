@@ -1,8 +1,6 @@
 """
 Personal Curriculum project
-
 06.18.19 L340E
-
 """
 
 def guessage():
@@ -51,6 +49,4 @@ def testing():
     print("1. To repeat a statement multiple times." + "/n" + "2. To decompose a program into several small subroutines.")
     print("3. To determine the execution time of a program." + "/n" + "4. To interrupt the execution of a program.")
     print("Your answer: ")
-    checkAnswer()
-
-
+checkAnswer()
